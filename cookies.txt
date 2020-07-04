@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.histats.com	TRUE	/	FALSE	1999999999	CountUid	a2cade6c-c4nt-46eb-8a02-a43ea8ed54bc
+.githack.com	TRUE	/	FALSE	1999999999	__cfduid	de23bef8f1d0e540e5aca2cdd3b9c01971593866785
+.githack.com	TRUE	/	FALSE	1999999999	__cf_bm	e80106402ceb991bbe070db5b3e1e98dcdc4fa0f-1593866785-1800-AbiM+fEE/e1nW8UfBrC5iHizdOlcmS+49JegoQtQG2rwIuyoHhghEnHwMV1qW9jfW2GXjhfhKh9HhSTMb6h3MpM=
+raw.githack.com	TRUE	/	FALSE	1999999999	SameSite	None
+
